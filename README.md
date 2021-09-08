@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimmohdali7
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning reactjs , nodejs, python, linux, etc.
+- 🌱 I’m currently working on languages such as reactjs , nodejs, java, elixir, python, linux, etc.
 - 💞️ I’m looking to collaborate on same.
 - 📫 Mail me ibrahimmohdali7@gmail.com
 
